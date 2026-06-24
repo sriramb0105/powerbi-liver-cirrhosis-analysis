@@ -114,13 +114,15 @@ Severity increases by 62.9% from Stage 1 to Stage 3.
 
 Key Findings:
 
-Stage	Avg Follow-up Days
-Stage 1	2,285
-Stage 2	1,923
-Stage 3	1,455
-Mortality rises from 22.6% to 54.7%
-Patients aged 65+ show 51.6% mortality
-Stage 3 patients lose approximately 830 survival days
+Stage	 - Avg Follow-up Days:
+
+Stage 1	 - 2,285
+Stage 2	 - 1,923
+Stage 3	 - 1,455
+
+Mortality rises from 22.6% to 54.7%.
+Patients aged 65+ show 51.6% mortality.
+Stage 3 patients lose approximately 830 survival days.
 
 **7. Treatment Effectiveness**
 
@@ -130,32 +132,32 @@ Drug vs Placebo
 
 Key Findings:
 
-Drug provides +377 survival days in Stage 1
-Mortality rates are similar overall
-Treatment advantage disappears in Stage 3
-Early intervention is the critical treatment window
+Drug provides +377 survival days in Stage 1.
+Mortality rates are similar overall.
+Treatment advantage disappears in Stage 3.
+Early intervention is the critical treatment window.
 
 **Power BI Features Implemented**
 **Power Query**
-Data Cleaning
-Data Transformation
-Data Type Correction
-Value Standardization
+Data Cleaning.
+Data Transformation.
+Data Type Correction.
+Value Standardization.
 
 **DAX Measures**
 
-Mortality Rate
-Average Follow-up Days
-Severity Score
-Drug Survival Analysis
-Biomarker Averages
+Mortality Rate.
+Average Follow-up Days.
+Severity Score.
+Drug Survival Analysis.
+Biomarker Averages.
 
 **Interactive Features**
-Slicers
-Drill-down Analysis
-Dynamic KPIs
-Tooltips
-Cross-filtering
+Slicers,
+Drill-down Analysis,
+Dynamic KPIs,
+Tooltips,
+Cross-filtering.
 
 **Key Business Value**
 **Clinical Value**
@@ -170,16 +172,11 @@ Simplifies clinical trial interpretation through visualization
 
 **Project Screenshots**
 
+![Liver Cirrhosis Analysis](Liver Cirrhosis Analysis PDF)
 
+**Project Files**
 
-Project Files
-Liver-Cirrhosis-Analysis
-│
-├── Dashboard.pbix
-├── Dataset.xlsx
-├── README.md
-├── Presentation.pptx
-└── Dashboard Screenshots
+![Liver Cirrhosis Analysis]
 
 **Limitations**
 Historical dataset (1974–1984)
