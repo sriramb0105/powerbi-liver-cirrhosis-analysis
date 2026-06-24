@@ -19,9 +19,11 @@ Assess treatment effectiveness
 Identify high-risk patient groups
 
 **Dataset Information**
+
 **Source**
 Mayo Clinic Primary Biliary Cirrhosis Trial (1974–1984)
-Kaggle Dataset
+Kaggle Dataset 
+
 **Dataset Characteristics**
 Metric	Value
 Patients	25,000
@@ -138,6 +140,7 @@ Treatment advantage disappears in Stage 3.
 Early intervention is the critical treatment window.
 
 **Power BI Features Implemented**
+
 **Power Query**
 Data Cleaning.
 Data Transformation.
@@ -160,13 +163,17 @@ Tooltips,
 Cross-filtering.
 
 **Key Business Value**
+
 **Clinical Value**
 Identifies high-risk symptoms
 Supports patient risk stratification
+
 **Treatment Value**
 Helps identify optimal treatment timing
+
 **Research Value**
 Reusable severity scoring framework
+
 **Educational Value**
 Simplifies clinical trial interpretation through visualization
 
